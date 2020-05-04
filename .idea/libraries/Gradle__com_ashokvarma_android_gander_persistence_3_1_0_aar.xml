@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ashokvarma.android:gander-persistence:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd1c1fe91f862e969662b6a68f2e302b/jetified-gander-persistence-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd1c1fe91f862e969662b6a68f2e302b/jetified-gander-persistence-3.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ashokvarma.android/gander-persistence/3.1.0/35dbea75e38f96a2014489fcd741756cf6f102e0/gander-persistence-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ashokvarma.android/gander-persistence/3.1.0/33882c828d898eafa9e23d51ad350699662527b9/gander-persistence-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

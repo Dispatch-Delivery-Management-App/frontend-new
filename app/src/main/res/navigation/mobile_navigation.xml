@@ -80,6 +80,8 @@
             app:nullable="true"
             app:argType="com.fullstack.frontend.Retro.newOrder.GetPlansRequest"/>
 
+
+
         <action
             android:id="@+id/recommend_to_detail"
             app:destination="@+id/nav_detail">

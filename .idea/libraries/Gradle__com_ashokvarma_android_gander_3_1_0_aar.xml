@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ashokvarma.android:gander:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a63d0a9c186fd630e15a81b61f68f4e1/jetified-gander-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a63d0a9c186fd630e15a81b61f68f4e1/jetified-gander-3.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ashokvarma.android/gander/3.1.0/c1bb0b3c82f39ab029b72ca089819bc99c256ab3/gander-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ashokvarma.android/gander/3.1.0/55c371483da8f1a1a472749907ad674f20354296/gander-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

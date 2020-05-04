@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ashokvarma.android:gander-imdb:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/621cd52e0801a9db4f8fc6605d023727/jetified-gander-imdb-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/621cd52e0801a9db4f8fc6605d023727/jetified-gander-imdb-3.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ashokvarma.android/gander-imdb/3.1.0/a9bfa8148b0ed67e11215f21a6ddb7a83c6a57a9/gander-imdb-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ashokvarma.android/gander-imdb/3.1.0/6748ba1268298c46c576859c457cc25001cbec6/gander-imdb-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
